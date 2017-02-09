@@ -1,4 +1,4 @@
-# Image Denoising Benchmark
+# Image Denoising State-of-the-art
 
 A curated list of image denoising resources and a benchmark for single image super-resolution algorithms.
 
