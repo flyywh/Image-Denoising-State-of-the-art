@@ -10,6 +10,8 @@ A curated list of image denoising resources and a benchmark for single image sup
   * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
  
 #### Sparse Coding
+ * SAINT [[Web]](http://see.xidian.edu.cn/faculty/wsdong/wsdong_Publication.htm) [[Code]] [[PDF]](http://see.xidian.edu.cn/faculty/wsdong/Papers/Journal/TIP_LASSC.pdf)
+  * Nonlocal image restoration with bilateral variance estimation: a low-rank approach
  * NCSR [[Web]](http://www4.comp.polyu.edu.hk/~cslzhang/NCSR.htm) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/NCSR.rar) [[PDF]](http://www4.comp.polyu.edu.hk/~cslzhang/paper/NCSR_TIP_final.pdf)
   * Nonlocally Centralized Sparse Representation for Image Restoration, Dong et al.
 
