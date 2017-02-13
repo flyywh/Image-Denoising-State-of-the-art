@@ -4,7 +4,14 @@ A curated list of image denoising resources and a benchmark for single image sup
 
 ## State-of-the-art algorithms
 
+
+#### Filter
+ * BD3M [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
+  * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
+ 
 #### Sparse Coding
+ * NCSR [[Web]]
+
 
 #### Effective Prior
  * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
