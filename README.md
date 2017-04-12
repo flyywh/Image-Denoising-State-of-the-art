@@ -1,6 +1,6 @@
 # Image Denoising State-of-the-art
 
-A curated list of image denoising resources and a benchmark for single image super-resolution algorithms.
+A curated list of image denoising resources and a benchmark for image denoising approaches.
 
 ## State-of-the-art algorithms
 
