@@ -39,4 +39,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Image Denoising via CNNs: An Adversarial Approach (Arxiv 2017), Nithish Divakar, R. Venkatesh Babu.
  * Unrolled Optimization Deep Priors [[PDF]](https://arxiv.org/pdf/1705.08041.pdf)
    * Unrolled Optimization with Deep Priors (Arxiv 2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
- 
+ * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
+   * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
+   
+   
