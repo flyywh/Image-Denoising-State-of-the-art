@@ -21,7 +21,6 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * LSSC [[Web]](http://www.di.ens.fr/~fbach/) [Code] [[PDF]](http://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
    * Non-local Sparse Models for Image Restoration (ICCV2009), Mairal et al.
   
-  
 #### Effective Prior
  * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
    * From Learning Models of Natural Image Patches to Whole Image Restoration (ICCV2011), Zoran et al.
@@ -30,9 +29,10 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * External Prior Guided [[PDF]](https://arxiv.org/pdf/1705.04505.pdf)
    * External Prior Guided Internal Prior Learning for Real Noisy Image Denoising, Jun Xu, Lei Zhang, and David Zhang.
  * Multi-Layer Image Representation [[PDF]](https://arxiv.org/pdf/1707.02194.pdf)
-   * A Multi-Layer Image Representation Using Regularized Residual Quantization: Application to Compression and Denoising, Sohrab Ferdowsi, Slava Voloshynovskiy, Dimche Kostadinov.
-
-   
+   * A Multi-Layer Image Representation Using Regularized Residual Quantization: Application to Compression and Denoising, Sohrab Ferdowsi, Slava Voloshynovskiy, Dimche Kostadinov.
+ * A Faster Patch Ordering [[PDF]](https://arxiv.org/ftp/arxiv/papers/1704/1704.08090.pdf)
+   * A Faster Patch Ordering Method for Image Denoising, Badre Munir.
+   
 #### Low Rank
  * WNNM [[Web]](https://sites.google.com/site/shuhanggu/home) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/WNNM_code.zip) [[PDF]](https://pdfs.semanticscholar.org/6d55/6272625b672ba54b5ab3d9e6474088a4b78f.pdf)
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
