@@ -25,7 +25,9 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * From Learning Models of Natural Image Patches to Whole Image Restoration (ICCV2011), Zoran et al.
  * Bayesian Hyperprior [[PDF]](https://arxiv.org/pdf/1706.03261.pdf)
    * A Bayesian Hyperprior Approach for Joint Image Denoising and Interpolation with an Application to HDR Imaging, Cecilia Aguerrebere, Andres Almansa, Julie Delon, Yann Gousseau and Pablo Muse.
-   
+ * External Prior Guided [[PDF]](https://arxiv.org/pdf/1705.04505.pdf)
+     External Prior Guided Internal Prior Learning for Real Noisy Image Denoising, Jun Xu, Lei Zhang, and David Zhang.
+ 
 #### Low Rank
  * WNNM [[Web]](https://sites.google.com/site/shuhanggu/home) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/WNNM_code.zip) [[PDF]](https://pdfs.semanticscholar.org/6d55/6272625b672ba54b5ab3d9e6474088a4b78f.pdf)
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
