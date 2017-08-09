@@ -42,6 +42,9 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * DAAM [[Web]](https://arxiv.org/abs/1612.06508) [[PDF]](https://arxiv.org/pdf/1612.06508.pdf)
    * Deeply Aggregated Alternating Minimization for Image Restoration (Arxiv2016), Youngjung Kim et al.
  * Adversirial Denoising [[PDF]](https://arxiv.org/pdf/1708.00159.pdf)
-   * Image Denoising via CNNs: An Adversarial Approach (Arxiv 2017), Nithish Divakar, R. Venkatesh Babu.
+   * Image Denoising via CNNs: An Adversarial Approach (Arxiv2017), Nithish Divakar, R. Venkatesh Babu.
  * Unrolled Optimization Deep Priors [[PDF]](https://arxiv.org/pdf/1705.08041.pdf)
-   * Unrolled Optimization with Deep Priors (Arxiv 2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
+   * Unrolled Optimization with Deep Priors (Arxiv2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
+ * Wider Network [[PDF]](https://arxiv.org/pdf/1707.05414.pdf)
+   * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
+ 
