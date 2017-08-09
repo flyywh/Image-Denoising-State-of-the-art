@@ -41,5 +41,6 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Unrolled Optimization with Deep Priors (Arxiv 2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
  * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
    * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
-   
+ * Bayesian Hyperprior [[PDF]](https://arxiv.org/pdf/1706.03261.pdf)
+   * A Bayesian Hyperprior Approach for Joint Image Denoising and Interpolation with an Application to HDR Imaging, Cecilia Aguerrebere, Andres Almansa, Julie Delon, Yann Gousseau and Pablo Muse.
    
