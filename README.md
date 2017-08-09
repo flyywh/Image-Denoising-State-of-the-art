@@ -8,7 +8,9 @@ A curated list of image denoising resources and a benchmark for image denoising 
 #### Filter
  * BD3M [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
    * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
-  
+ * Activity-tuned Image Filtering [[PDF]](https://arxiv.org/pdf/1707.02637.pdf)
+   * Local Activity-tuned Image Filtering for Noise Removal and Image Smoothing (Arxiv 2017), Lijun Zhao, Jie Liang, Huihui Bai, Lili Meng, Anhong Wang, and Yao Zhao.
+
 #### Sparse Coding
  * KSVD [[Web]](http://www.cs.technion.ac.il/~ronrubin/software.html) [[Code]](https://github.com/jbhuang0604/SelfSimSR/tree/master/Lib/KSVD) [[PDF]](http://www.egr.msu.edu/~aviyente/elad06.pdf)
    * Image Denoising Via Sparse and Redundant Representations Over Learned Dictionaries (TIP2006), Elad et al.
