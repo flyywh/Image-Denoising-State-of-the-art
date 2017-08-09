@@ -48,7 +48,11 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * Wider Network [[PDF]](https://arxiv.org/pdf/1707.05414.pdf)
    * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  
-#### Others
+#### Combined with High-Level Tasks
+ * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
+   * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
+ 
+#### Benchmark
  * Benchmark [[PDF]](https://arxiv.org/pdf/1707.01313.pdf)
    * Benchmarking Denoising Algorithms with Real Photographs (Arxiv2017), Tobias Plotz, Stefan Roth.
    
