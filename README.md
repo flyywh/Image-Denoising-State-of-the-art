@@ -3,8 +3,6 @@
 A curated list of image denoising resources and a benchmark for image denoising approaches.
 
 ## State-of-the-art algorithms
-
-
 #### Filter
  * BD3M [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
    * Image restoration by sparse 3D transform-domain collaborative filtering (SPIE Electronic Imaging 2008), Dabov et al.
@@ -57,13 +55,11 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * Learning Pixel-Distribution Prior
    * Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
    
-   
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
  * Class-Specific Denoising
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
- * 
    
 #### Benchmark
  * Benchmark [[PDF]](https://arxiv.org/pdf/1707.01313.pdf)
