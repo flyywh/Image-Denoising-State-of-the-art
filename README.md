@@ -52,7 +52,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  * Recurrent Inference Machines [[PDF]](https://arxiv.org/pdf/1706.04008.pdf)
    * Recurrent Inference Machines for Solving Inverse Problems, Patrick Putzky, Max Welling.
- * Learning Pixel-Distribution Prior
+ * Learning Pixel-Distribution Prior [[PDF]](https://arxiv.org/pdf/1707.09135.pdf)
    * Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
    
 #### Combined with High-Level Tasks
