@@ -18,7 +18,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Nonlocally Centralized Sparse Representation for Image Restoration (TIP2012), Dong et al.
  * LSSC [[Web]](http://www.di.ens.fr/~fbach/) [Code] [[PDF]](http://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
    * Non-local Sparse Models for Image Restoration (ICCV2009), Mairal et al.
-  
+
 #### Effective Prior
  * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
    * From Learning Models of Natural Image Patches to Whole Image Restoration (ICCV2011), Zoran et al.
@@ -30,13 +30,13 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * A Multi-Layer Image Representation Using Regularized Residual Quantization: Application to Compression and Denoising, Sohrab Ferdowsi, Slava Voloshynovskiy, Dimche Kostadinov.
  * A Faster Patch Ordering [[PDF]](https://arxiv.org/ftp/arxiv/papers/1704/1704.08090.pdf)
    * A Faster Patch Ordering Method for Image Denoising, Badre Munir.
-   
+  
 #### Low Rank
  * WNNM [[Web]](https://sites.google.com/site/shuhanggu/home) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/WNNM_code.zip) [[PDF]](https://pdfs.semanticscholar.org/6d55/6272625b672ba54b5ab3d9e6474088a4b78f.pdf)
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
  * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
    * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
-   
+
 #### Deep Learning
  * TNRD [[Web]](http://www.icg.tugraz.at/Members/Chenyunjin/about-yunjin-chen) [[Code]](https://www.dropbox.com/s/8j6b880m6ddxtee/TNRD-Codes.zip?dl=0) [[PDF]](https://arxiv.org/pdf/1508.02848.pdf)
    * Trainable nonlinear reaction diffusion: A flexible framework for fast and effective image restoration (TPAMI2016), Chen et al.
@@ -54,13 +54,17 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Recurrent Inference Machines for Solving Inverse Problems, Patrick Putzky, Max Welling.
  * Learning Pixel-Distribution Prior [[PDF]](https://arxiv.org/pdf/1707.09135.pdf)
    * Learning Pixel-Distribution Prior with Wider Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
-   
+ * DenoiseNet [[PDF]](https://arxiv.org/pdf/1701.01687.pdf)[[Code]](https://github.com/isVoid/DenoiseNet)
+   * Deep Convolutional Denoising of Low-Light Images (Arxiv2017), Tal Remez, Or Litany, Raja Giryes, Alex M. Bronstein.
+
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
  * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
-   
+
 #### Benchmark
- * Benchmark [[PDF]](https://arxiv.org/pdf/1707.01313.pdf)
-   * Benchmarking Denoising Algorithms with Real Photographs (Arxiv2017), Tobias Plotz, Stefan Roth.
+ * ReNOIR [[PDF]](https://arxiv.org/pdf/1409.8230.pdf) [[WEB]](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
+   * RENOIR - A Dataset for Real Low-Light Image Noise Reduction(Arxiv2014), Josue Anaya, Adrian Barbu
+ * Darmsdadt [[PDF]](https://arxiv.org/pdf/1707.01313.pdf) [[WEB]](https://noise.visinf.tu-darmstadt.de/)
+   * Benchmarking Denoising Algorithms with Real Photographs (CVPR2017), Tobias Plotz, Stefan Roth.
