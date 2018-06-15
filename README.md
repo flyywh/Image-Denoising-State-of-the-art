@@ -62,8 +62,10 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * 	Universal Denoising Networks : A Novel CNN Architecture for Image Denoising (CVPR2018), Stamatios Lefkimmiatis.
  * Non-Local Recurrent Network[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
    * 	Non-Local Recurrent Network for Image Restoration (Arxiv2018), Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang.
-
-
+ * Recurring Patterns Network[[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
+   * 	Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising (Arxiv2018), Zhihao Xia, Ayan Chakrabarti.
+ * Dynamically Unfolding Recurrent Restorer[[PDF]](https://arxiv.org/pdf/1805.07709.pdf)
+   *  Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration (Arxiv2018), Xiaoshuai Zhang, Yiping Lu, Jiaying Liu, Bin Dong.
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
