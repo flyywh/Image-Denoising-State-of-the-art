@@ -36,6 +36,8 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
  * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
    * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
+ * Multi-Scale Weighted Nuclear Norm [[PDF]](https://tomer.net.technion.ac.il/files/2018/04/MS-WNNM-IR.pdf)
+   * Multi-Scale Weighted Nuclear Norm Image Restoration (CVPR2018), Noam Yair, Tomer Michaeli.
 
 #### Deep Learning
  * TNRD [[Web]](http://www.icg.tugraz.at/Members/Chenyunjin/about-yunjin-chen) [[Code]](https://www.dropbox.com/s/8j6b880m6ddxtee/TNRD-Codes.zip?dl=0) [[PDF]](https://arxiv.org/pdf/1508.02848.pdf)
