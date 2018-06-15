@@ -60,6 +60,10 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * 	Image Blind Denoising With Generative Adversarial Network Based Noise Modeling (CVPR2018), Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang. 
  * Universal Denoising Networks[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
    * 	Universal Denoising Networks : A Novel CNN Architecture for Image Denoising (CVPR2018), Stamatios Lefkimmiatis.
+ * Non-Local Recurrent Network[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
+   * 	Non-Local Recurrent Network for Image Restoration (Arxiv2018), Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang.
+
+
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
@@ -74,3 +78,5 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Benchmarking Denoising Algorithms with Real Photographs (CVPR2017), Tobias Plotz, Stefan Roth.
  * Smartphone Cameras Dataset [[PDF]](http://www.cse.yorku.ca/~mbrown/pdf/sidd_cvpr2018.pdf)
    * A High-Quality Denoising Dataset for Smartphone Cameras (CVPR2018), Abdelrahman Abdelhamed, Stephen Lin, Michael S. Brown.
+
+
