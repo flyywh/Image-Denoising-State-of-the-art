@@ -52,15 +52,21 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  * Recurrent Inference Machines [[PDF]](https://arxiv.org/pdf/1706.04008.pdf)
    * Recurrent Inference Machines for Solving Inverse Problems, Patrick Putzky, Max Welling.
+ * Kernel Prediction[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
+   * Burst Denoising With Kernel Prediction Networks, Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll.
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
  * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
+ * 
 
 #### Benchmark
  * ReNOIR [[PDF]](https://arxiv.org/pdf/1409.8230.pdf) [[WEB]](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
    * RENOIR - A Dataset for Real Low-Light Image Noise Reduction(Arxiv2014), Josue Anaya, Adrian Barbu
  * Darmsdadt [[PDF]](https://arxiv.org/pdf/1707.01313.pdf) [[WEB]](https://noise.visinf.tu-darmstadt.de/)
    * Benchmarking Denoising Algorithms with Real Photographs (CVPR2017), Tobias Plotz, Stefan Roth.
+ * Smartphone Cameras Dataset [[PDF]](http://www.cse.yorku.ca/~mbrown/pdf/sidd_cvpr2018.pdf)
+   * A High-Quality Denoising Dataset for Smartphone Cameras (CVPR2018), Abdelrahman Abdelhamed, Stephen Lin, Michael S. Brown.
+   
