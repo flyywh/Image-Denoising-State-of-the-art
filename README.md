@@ -54,7 +54,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Recurrent Inference Machines for Solving Inverse Problems(Arxiv2017), Patrick Putzky, Max Welling.
  * Kernel Prediction[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
    * Burst Denoising With Kernel Prediction Networks (CVPR2018), Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll.
- * GAN-Based Noise Modeling
+ * GAN-Based Noise Modeling[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Image_Blind_Denoising_CVPR_2018_paper.pdf)
    * 	Image Blind Denoising With Generative Adversarial Network Based Noise Modeling (CVPR2018), Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang. 
 
 #### Combined with High-Level Tasks
