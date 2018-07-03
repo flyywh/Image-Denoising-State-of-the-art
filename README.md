@@ -60,7 +60,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * 	Image Blind Denoising With Generative Adversarial Network Based Noise Modeling (CVPR2018), Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang. 
  * Universal Denoising Networks[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
    * 	Universal Denoising Networks : A Novel CNN Architecture for Image Denoising (CVPR2018), Stamatios Lefkimmiatis.
- * Non-Local Recurrent Network[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
+ * Non-Local Recurrent Network[[PDF]](https://arxiv.org/pdf/1806.02919.pdf)
    * 	Non-Local Recurrent Network for Image Restoration (Arxiv2018), Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang.
  * Recurring Patterns Network[[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
    * 	Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising (Arxiv2018), Zhihao Xia, Ayan Chakrabarti.
