@@ -66,6 +66,8 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * 	Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising (Arxiv2018), Zhihao Xia, Ayan Chakrabarti.
  * Dynamically Unfolding Recurrent Restorer[[PDF]](https://arxiv.org/pdf/1805.07709.pdf)
    *  Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration (Arxiv2018), Xiaoshuai Zhang, Yiping Lu, Jiaying Liu, Bin Dong.
+ * Pixel Adaptive Image Denoiser[[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
+   *  Fully Convolutional Pixel Adaptive Image Denoiser (Arxiv2018), Sungmin Cha and Taesup Moon.
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
