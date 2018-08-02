@@ -77,7 +77,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
 
 #### Benchmark
  * ReNOIR [[PDF]](https://arxiv.org/pdf/1409.8230.pdf) [[WEB]](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
-   * RENOIR - A Dataset for Real Low-Light Image Noise Reduction(Arxiv2014), Josue Anaya, Adrian Barbu
+   * RENOIR - A Dataset for Real Low-Light Image Noise Reduction (JVCIR2018), Josue Anaya, Adrian Barbu
  * Darmsdadt [[PDF]](https://arxiv.org/pdf/1707.01313.pdf) [[WEB]](https://noise.visinf.tu-darmstadt.de/)
    * Benchmarking Denoising Algorithms with Real Photographs (CVPR2017), Tobias Plotz, Stefan Roth.
  * Smartphone Cameras Dataset [[PDF]](http://www.cse.yorku.ca/~mbrown/pdf/sidd_cvpr2018.pdf)
