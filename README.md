@@ -54,23 +54,22 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  * Recurrent Inference Machines [[PDF]](https://arxiv.org/pdf/1706.04008.pdf)
    * Recurrent Inference Machines for Solving Inverse Problems(Arxiv2017), Patrick Putzky, Max Welling.
- * Kernel Prediction[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
+ * Kernel Prediction [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
    * Burst Denoising With Kernel Prediction Networks (CVPR2018), Ben Mildenhall, Jonathan T. Barron, Jiawen Chen, Dillon Sharlet, Ren Ng, Robert Carroll.
- * GAN-Based Noise Modeling[[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Image_Blind_Denoising_CVPR_2018_paper.pdf)
+ * GAN-Based Noise Modeling [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Image_Blind_Denoising_CVPR_2018_paper.pdf)
    * 	Image Blind Denoising With Generative Adversarial Network Based Noise Modeling (CVPR2018), Jingwen Chen, Jiawei Chen, Hongyang Chao, Ming Yang. 
- * Universal Denoising Networks[[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
+ * Universal Denoising Networks [[PDF]](https://arxiv.org/pdf/1711.07807.pdf)
    * 	Universal Denoising Networks : A Novel CNN Architecture for Image Denoising (CVPR2018), Stamatios Lefkimmiatis.
- * Non-Local Recurrent Network[[PDF]](https://arxiv.org/pdf/1806.02919.pdf)
+ * Non-Local Recurrent Network [[PDF]](https://arxiv.org/pdf/1806.02919.pdf)
    * 	Non-Local Recurrent Network for Image Restoration (Arxiv2018), Ding Liu, Bihan Wen, Yuchen Fan, Chen Change Loy, Thomas S. Huang.
- * Recurring Patterns Network[[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
+ * Recurring Patterns Network [[PDF]](https://arxiv.org/pdf/1806.05229.pdf)
    * 	Identifying Recurring Patterns with Deep Neural Networks for Natural Image Denoising (Arxiv2018), Zhihao Xia, Ayan Chakrabarti.
- * Dynamically Unfolding Recurrent Restorer[[PDF]](https://arxiv.org/pdf/1805.07709.pdf)
+ * Dynamically Unfolding Recurrent Restorer [[PDF]](https://arxiv.org/pdf/1805.07709.pdf)
    *  Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration (Arxiv2018), Xiaoshuai Zhang, Yiping Lu, Jiaying Liu, Bin Dong.
- * Pixel Adaptive Image Denoiser[[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
+ * Pixel Adaptive Image Denoiser [[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
    *  Fully Convolutional Pixel Adaptive Image Denoiser (Arxiv2018), Sungmin Cha and Taesup Moon.
- * https://arxiv.org/pdf/1807.04686.pdf[[PDF]](https://arxiv.org/pdf/1807.04686.pdf)
-   *  Convolutional Blind Denoising [[PDF]](
-   * Toward Convolutional Blind Denoising of Real Photographs, Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang
+ * Convolutional Blind Denoising [[PDF]](https://arxiv.org/pdf/1807.04686.pdf) [[WEB]](https://github.com/GuoShi28/CBDNet)
+   *  Toward Convolutional Blind Denoising of Real Photographs (ECCV2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
