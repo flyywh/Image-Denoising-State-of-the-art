@@ -82,5 +82,6 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * Benchmarking Denoising Algorithms with Real Photographs (CVPR2017), Tobias Plotz, Stefan Roth.
  * Smartphone Cameras Dataset [[PDF]](http://www.cse.yorku.ca/~mbrown/pdf/sidd_cvpr2018.pdf)
    * A High-Quality Denoising Dataset for Smartphone Cameras (CVPR2018), Abdelrahman Abdelhamed, Stephen Lin, Michael S. Brown.
-
+ * PolyU [[PDF]](https://arxiv.org/pdf/1804.02603.pdf) [[WEB]](https://github.com/csjunxu/PolyU-Real-World-Noisy-Images-Dataset)
+   * Real-world Noisy Image Denoising: A New Benchmark (Arxiv2018), Jun Xu, Hui Li, Zhetong Liang, David Zhang, and Lei Zhang.
 
