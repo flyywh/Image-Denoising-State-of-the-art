@@ -68,6 +68,9 @@ A curated list of image denoising resources and a benchmark for image denoising 
    *  Dynamically Unfolding Recurrent Restorer: A Moving Endpoint Control Method for Image Restoration (Arxiv2018), Xiaoshuai Zhang, Yiping Lu, Jiaying Liu, Bin Dong.
  * Pixel Adaptive Image Denoiser[[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
    *  Fully Convolutional Pixel Adaptive Image Denoiser (Arxiv2018), Sungmin Cha and Taesup Moon.
+ * https://arxiv.org/pdf/1807.04686.pdf[[PDF]](https://arxiv.org/pdf/1807.04686.pdf)
+   *  Convolutional Blind Denoising [[PDF]](
+   * Toward Convolutional Blind Denoising of Real Photographs, Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang
 
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
