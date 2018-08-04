@@ -69,7 +69,7 @@ A curated list of image denoising resources and a benchmark for image denoising 
  * Pixel Adaptive Image Denoiser [[PDF]](https://arxiv.org/pdf/1807.07569.pdf)
    *  Fully Convolutional Pixel Adaptive Image Denoiser (Arxiv2018), Sungmin Cha and Taesup Moon.
  * Convolutional Blind Denoising [[PDF]](https://arxiv.org/pdf/1807.04686.pdf) [[WEB]](https://github.com/GuoShi28/CBDNet)
-   *  Toward Convolutional Blind Denoising of Real Photographs (ECCV2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
+   *  Toward Convolutional Blind Denoising of Real Photographs (Arxiv2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
  * Noise2Noise [[PDF]](https://arxiv.org/pdf/1803.04189.pdf)
    *  Noise2Noise: Learning Image Restoration without Clean Data (ICLR2018), Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila.
    
