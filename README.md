@@ -2,6 +2,11 @@
 
 A curated list of image denoising resources and a benchmark for image denoising approaches.
 
+**This list is maintained by:**
+
+**Wenhan Yang** **[[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
+
+
 ## State-of-the-art algorithms
 #### Filter
  * BM3D [[Web]](http://www.cs.tut.fi/~foi/GCF-BM3D/) [[Code]](http://www.cs.tut.fi/~foi/GCF-BM3D/BM3D.zip) [[PDF]](http://www.cs.tut.fi/~foi/GCF-BM3D/SPIE08_deblurring.pdf)
