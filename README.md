@@ -1,6 +1,6 @@
 # Image Denoising State-of-the-art
 
-A curated list of image denoising resources and a benchmark for image denoising approaches.
+**A curated list of image denoising resources and a benchmark for image denoising approaches.**
 
 **This list is maintained by:**
 
