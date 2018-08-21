@@ -79,6 +79,8 @@ A curated list of image denoising resources and a benchmark for image denoising 
    * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
  * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
+ * Class-Aware Denoising [[PDF]](https://arxiv.org/pdf/1808.06562.pdf)
+   * Class-Aware Fully-Convolutional Gaussian and Poisson Denoising (Arxiv2018), Tal Remez, Or Litany, Raja Giryes, and Alex M. Bronstein.
 
 #### Benchmark
  * ReNOIR [[PDF]](https://arxiv.org/pdf/1409.8230.pdf) [[WEB]](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
