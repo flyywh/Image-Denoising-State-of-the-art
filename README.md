@@ -79,11 +79,13 @@
    
 #### Combined with High-Level Tasks
  * Meets High-level Tasks [[PDF]](https://arxiv.org/pdf/1706.04284.pdf)
-   * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (Arxiv2017), Bihan Wen, Xianming Liu, Thomas S. Huang.
+   * When Image Denoising Meets High-Level Vision Tasks: A Deep Learning Approach, Ding Liu (IJCAI2018), Bihan Wen, Xianming Liu, Thomas S. Huang.
  * Class-Specific Denoising [[PDF]](https://arxiv.org/pdf/1706.02867.pdf)
    * Class-Specific Poisson Denoising By Patch-Based Importance Sampling (Arxiv2017), Milad Niknejad, Jose M. Bioucas-Dias, Mario A. T. Figueiredo.
  * Class-Aware Denoising [[PDF]](https://arxiv.org/pdf/1808.06562.pdf)
    * Class-Aware Fully-Convolutional Gaussian and Poisson Denoising (Arxiv2018), Tal Remez, Or Litany, Raja Giryes, and Alex M. Bronstein.
+ * Image Denoising + High Level [[PDF]](https://arxiv.org/pdf/1809.01826.pdf)
+   * Connecting Image Denoising and High-Level Vision Tasks via Deep Learning (Arxiv2018), Ding Liu, Bihan Wen, Jianbo Jiao, Xianming Liu, Zhangyang Wang, and Thomas S. Huang.
 
 #### Benchmark
  * ReNOIR [[PDF]](https://arxiv.org/pdf/1409.8230.pdf) [[WEB]](http://ani.stat.fsu.edu/~abarbu/Renoir.html)
