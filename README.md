@@ -41,8 +41,8 @@
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
  * Low-rank MoG filter [[PDF]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_From_Noise_Modeling_CVPR_2016_paper.pdf)
    * From Noise Modeling to Blind Image Denoising (CVPR2016), Zhu et al.
- * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
-   * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
+ * Multi-channel Weighted Nuclear Norm [[Web]](https://github.com/csjunxu/MCWNNM-ICCV2017) [Code] [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
+   * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (ICCV2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
  * Multi-Scale Weighted Nuclear Norm [[PDF]](https://tomer.net.technion.ac.il/files/2018/04/MS-WNNM-IR.pdf)
    * Multi-Scale Weighted Nuclear Norm Image Restoration (CVPR2018), Noam Yair, Tomer Michaeli.
 
