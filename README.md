@@ -57,8 +57,6 @@
    * Image Denoising via CNNs: An Adversarial Approach (Arxiv2017), Nithish Divakar, R. Venkatesh Babu.
  * Unrolled Optimization Deep Priors [[PDF]](https://arxiv.org/pdf/1705.08041.pdf)
    * Unrolled Optimization with Deep Priors (Arxiv2017), Steven Diamond, Vincent Sitzmann, Felix Heide, Gordon Wetzstein.
- * Wider Network [[PDF]](https://arxiv.org/pdf/1707.05414.pdf)
-   * Going Wider with Convolution for Image Denoising (Arxiv2017), Peng Liu, Ruogu Fang.
  * Recurrent Inference Machines [[PDF]](https://arxiv.org/pdf/1706.04008.pdf)
    * Recurrent Inference Machines for Solving Inverse Problems(Arxiv2017), Patrick Putzky, Max Welling.
  * Kernel Prediction [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3761.pdf)
