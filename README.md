@@ -21,6 +21,8 @@
    * Nonlocally Centralized Sparse Representation for Image Restoration (TIP2012), Dong et al.
  * LSSC [[Web]](http://www.di.ens.fr/~fbach/) [Code] [[PDF]](http://www.di.ens.fr/~fbach/iccv09_mairal.pdf)
    * Non-local Sparse Models for Image Restoration (ICCV2009), Mairal et al.
+ * TWSC [[Web]](https://github.com/csjunxu/TWSC-ECCV2018) [Code] [[PDF]](http://openaccess.thecvf.com/content_ECCV_2018/papers/XU_JUN_A_Trilateral_Weighted_ECCV_2018_paper.pdf)
+   * A Trilateral Weighted Sparse Coding Scheme for Real-World Image Denoising (ECCV2018), Xu et al.
 
 #### Effective Prior
  * EPLL [[Web]](https://people.csail.mit.edu/danielzoran/) [[Code]](https://people.csail.mit.edu/danielzoran/epllcode.zip) [[PDF]](http://people.ee.duke.edu/~lcarin/EPLICCVCameraReady.pdf)
@@ -37,8 +39,10 @@
 #### Low Rank
  * WNNM [[Web]](https://sites.google.com/site/shuhanggu/home) [[Code]](http://www4.comp.polyu.edu.hk/~cslzhang/code/WNNM_code.zip) [[PDF]](https://pdfs.semanticscholar.org/6d55/6272625b672ba54b5ab3d9e6474088a4b78f.pdf)
    * Weighted Nuclear Norm Minimization with Application to Image Denoising (CVPR2014), Gu et al.
- * Multi-channel Weighted Nuclear Norm [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
-   * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (Arxiv 2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
+ * Low-rank MoG filter [[PDF]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Zhu_From_Noise_Modeling_CVPR_2016_paper.pdf)
+   * From Noise Modeling to Blind Image Denoising (CVPR2016), Zhu et al.
+ * Multi-channel Weighted Nuclear Norm [[Web]](https://github.com/csjunxu/MCWNNM-ICCV2017) [Code] [[PDF]](https://arxiv.org/pdf/1705.09912.pdf)
+   * Multi-channel Weighted Nuclear Norm Minimization for Real Color Image Denoising (ICCV2017), Jun Xu, Lei Zhang, David Zhang, and Xiangchu Feng.
  * Multi-Scale Weighted Nuclear Norm [[PDF]](https://tomer.net.technion.ac.il/files/2018/04/MS-WNNM-IR.pdf)
    * Multi-Scale Weighted Nuclear Norm Image Restoration (CVPR2018), Noam Yair, Tomer Michaeli.
 
@@ -74,7 +78,7 @@
  * Convolutional Blind Denoising [[PDF]](https://arxiv.org/pdf/1807.04686.pdf) [[WEB]](https://github.com/GuoShi28/CBDNet)
    *  Toward Convolutional Blind Denoising of Real Photographs (Arxiv2018), Shi Guo, Zifei Yan, Kai Zhang, Wangmeng Zuo, Lei Zhang.
  * Noise2Noise [[PDF]](https://arxiv.org/pdf/1803.04189.pdf)
-   *  Noise2Noise: Learning Image Restoration without Clean Data (ICLR2018), Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila.
+   *  Noise2Noise: Learning Image Restoration without Clean Data (ICML2018), Jaakko Lehtinen, Jacob Munkberg, Jon Hasselgren, Samuli Laine, Tero Karras, Miika Aittala, Timo Aila.
    
    
 #### Combined with High-Level Tasks
